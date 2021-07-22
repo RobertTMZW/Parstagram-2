@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 - [X] User can pull to refresh the last 20 posts submitted to "Instagram".
 
 <> (The following **optional** features are implemented:
-
+<!-- 
 - [ ] User sees app icon in home screen and styled bottom navigation view
 - [ ] Style the feed to look like the real Instagram feed.
 - [ ] User can load more posts once he or she reaches the bottom of the feed using infinite scrolling.
@@ -28,7 +28,7 @@ The following **required** functionality is completed:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!)
+- [ ] List anything else that you can get done to improve the app functionality!) -->
 
 ## Video Walkthrough
 
