@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 - [X] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
 - [X] User can pull to refresh the last 20 posts submitted to "Instagram".
 
-[comment]: <> (The following **optional** features are implemented:
+<> (The following **optional** features are implemented:
 
 - [ ] User sees app icon in home screen and styled bottom navigation view
 - [ ] Style the feed to look like the real Instagram feed.
